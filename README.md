@@ -1,2 +1,2 @@
-# Dashboard_Porsche
-Dashboards feitos para o curso Aceleração Santander
+# dashboard_dorsche
+Dashboard feito para o curso Aceleração Santander
