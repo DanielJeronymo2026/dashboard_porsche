@@ -7,3 +7,4 @@ Qual modelo de Porsche é mais vendido por Estado?
 Quais anos de modelos de Porsche são mais populares?
 Quais vendedores estão conseguindo mais vendas?
 
+https://danieljeronymo2026.github.io/dashboard_porsche/
